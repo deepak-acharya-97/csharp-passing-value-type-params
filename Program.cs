@@ -12,12 +12,14 @@ namespace play_with_passing_value_type_params
             y += 10;
         }
 
-        static void ChangeMadroNannanaRef(ref int x, ref int y)
+        static void ChangeMadroNannanaOut(out int x, out int y)
         {
-            P(x);
+            //P(x) ---> Error
+            //x+=10 ---> Error No Read Possible before Initialization
             x = 10;
             y = 20;
-        } // Ref *Read and Write* - Read/Write Permission
+            P(x);
+        } // Out - Although we can pass intialized variables out params need not have to be inilialized unlike ref. So if we pass the intialized params also out params treats it as unassigned. That's why we can't read them before intializing inside function scope
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -26,7 +28,7 @@ namespace play_with_passing_value_type_params
             P("X = " + x);
             P("Y = " + y);
 
-            ChangeMadroNannanaRef(ref x, ref y);
+            ChangeMadroNannanaOut(out x, out y);
             P("X = " + x);
             P("Y = " + y);
 
