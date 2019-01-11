@@ -1,0 +1,11 @@
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\bin\Debug\netcoreapp2.1\play_with_passing-value-type-params.deps.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\bin\Debug\netcoreapp2.1\play_with_passing-value-type-params.runtimeconfig.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\bin\Debug\netcoreapp2.1\play_with_passing-value-type-params.runtimeconfig.dev.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\bin\Debug\netcoreapp2.1\play_with_passing-value-type-params.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\bin\Debug\netcoreapp2.1\play_with_passing-value-type-params.pdb
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\obj\Debug\netcoreapp2.1\play_with_passing-value-type-params.csprojAssemblyReference.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\obj\Debug\netcoreapp2.1\play_with_passing-value-type-params.csproj.CoreCompileInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\obj\Debug\netcoreapp2.1\play_with_passing-value-type-params.AssemblyInfoInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\obj\Debug\netcoreapp2.1\play_with_passing-value-type-params.AssemblyInfo.cs
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\obj\Debug\netcoreapp2.1\play_with_passing-value-type-params.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_passing-value-type-params\obj\Debug\netcoreapp2.1\play_with_passing-value-type-params.pdb
